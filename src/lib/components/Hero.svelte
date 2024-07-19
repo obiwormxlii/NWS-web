@@ -16,7 +16,7 @@
 		<div class="absolute inset-0 size-full">
 			<div class="flex flex-col justify-center items-center size-full">
 				<a
-					class="py-3 px-4 inline-flex items-center gap-x-2 text-sm font-bold rounded-full border border-gray-200 bg-info text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none"
+					class="py-3 px-4 inline-flex items-center gap-x-2 text-xl font-bold rounded-full border border-gray-200 bg-info text-gray-800 shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none"
 					href="#"
 				>
 					Find Us
