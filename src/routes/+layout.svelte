@@ -1,6 +1,10 @@
 <script>
 	import '../app.css';
-	let { children } = $props();
+	import Navbar from '$lib/components/Navbar.svelte';
+	import { afterNavigate } from '$app/navigation';
 </script>
 
-{@render children()}
+<Navbar />
+<main class="bg-base-100 w-screen min-h-screen">
+	{@render children()}
+</main>
