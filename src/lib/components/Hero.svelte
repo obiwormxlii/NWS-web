@@ -10,7 +10,7 @@
 
 	<div class="mt-10 relative w-full mx-auto">
 		<div
-			class="w-full object-cover h-96 sm:h-[480px] bg-[url('./hero.webp')] bg-no-repeat bg-center bg-cover"
+			class="w-full object-cover h-96 sm:h-[480px] bg-[url('https://lirp.cdn-website.com/68679dff/dms3rep/multi/opt/imageHandler-b3aba828-1920w.jpg')] bg-no-repeat bg-center bg-cover"
 		></div>
 
 		<div class="absolute inset-0 size-full">
