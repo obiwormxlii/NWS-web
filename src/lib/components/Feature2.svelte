@@ -15,7 +15,7 @@
 
 					<a
 						class="py-3 px-4 inline-flex items-center gap-x-2 text-md font-bold rounded-full border border-gray-200 bg-accent text-accent-content shadow-sm hover:bg-gray-50 disabled:opacity-50 disabled:pointer-events-none"
-						href="#"
+						href="./"
 					>
 						Learn More About Us!
 					</a>

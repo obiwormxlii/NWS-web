@@ -6,13 +6,13 @@
 		aria-label="Global"
 	>
 		<div class="flex items-center justify-between">
-			<a class="flex-none text-xl font-semibold dark:text-white" href="./" aria-label="Brand">
+			<a class="flex-none text-xl font-semibold" href="./" aria-label="Brand">
 				<img src="./nws-logo.png" alt="Norwich Wine and Spirit" class="w-64" />
 			</a>
 			<div class="sm:hidden">
 				<button
 					type="button"
-					class="hs-collapse-toggle size-9 flex justify-center items-center text-sm font-semibold rounded-lg border border-gray-200 text-gray-800 hover:bg-gray-100 disabled:opacity-50 disabled:pointer-events-none dark:text-white dark:border-neutral-700 dark:hover:bg-neutral-700"
+					class="hs-collapse-toggle size-9 flex justify-center items-center text-sm font-semibold rounded-lg border border-black text-gray-800 hover:bg-black disabled:opacity-50 disabled:pointer-events-none"
 					data-hs-collapse="#navbar-collapse-with-animation"
 					aria-controls="navbar-collapse-with-animation"
 					aria-label="Toggle navigation"
@@ -50,11 +50,11 @@
 			<div class="flex flex-col sm:flex-row sm:items-center sm:justify-end sm:ps-7">
 				<a
 					class="py-3 ps-px sm:px-3 font-medium text-gray-500 hover:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500"
-					href="#">About Us</a
+					href="./">About Us</a
 				>
 				<a
 					class="py-3 ps-px sm:px-3 font-medium text-gray-500 hover:text-gray-400 dark:text-neutral-400 dark:hover:text-neutral-500"
-					href="#">Contact</a
+					href="./">Contact</a
 				>
 			</div>
 		</div>

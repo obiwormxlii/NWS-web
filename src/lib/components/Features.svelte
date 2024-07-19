@@ -74,7 +74,7 @@
 			<img
 				class="rounded-xl h-full object-cover"
 				src="https://lirp.cdn-website.com/68679dff/dms3rep/multi/opt/UNI09617-a165640c-1280w.jpg"
-				alt="Image Description"
+				alt="Description"
 			/>
 		</div>
 		<!-- End Col -->
@@ -83,7 +83,7 @@
 			<img
 				class="rounded-xl h-full object-cover"
 				src="https://lirp.cdn-website.com/68679dff/dms3rep/multi/opt/rocks-1920w.jpg"
-				alt="Image Description"
+				alt="Description"
 			/>
 		</div>
 		<!-- End Col -->
@@ -92,7 +92,7 @@
 			<img
 				class="rounded-xl h-full object-cover"
 				src="https://lirp.cdn-website.com/68679dff/dms3rep/multi/opt/michelle-1280w.jpg"
-				alt="Image Description"
+				alt="Description"
 			/>
 		</div>
 		<!-- End Col -->
